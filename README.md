@@ -1,6 +1,7 @@
 # christmas
 Christmas celebrations
-dance
-singing
-skit
-rugby
+1. dance
+2. singing
+3. skit
+4. rugby
+
